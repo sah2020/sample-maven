@@ -6,6 +6,6 @@ public class MainTest {
 
     @Test
     public void alwaysTrueTest() {
-        assertTrue(true);
+        assertTrue(false);
     }
 }
